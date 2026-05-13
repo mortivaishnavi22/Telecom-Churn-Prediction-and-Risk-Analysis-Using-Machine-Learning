@@ -128,7 +128,7 @@ Admin users can upload CSV files to perform churn prediction for multiple custom
 Clone the repository and install the required dependencies using the following commands:
 
 ```Bash
-git clone <your-github-repository-link>
+git clone <https://github.com/mortivaishnavi22/Telecom-Churn-Prediction-and-Risk-Analysis-Using-Machine-Learning>
 
 ```Bash
 pip install -r requirements.txt
